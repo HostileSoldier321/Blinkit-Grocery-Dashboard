@@ -27,9 +27,9 @@ The primary goal of this project is to extract actionable business insights from
 - Time-based order distribution
 - Delivery efficiency tracking
 
-- ## An Overview of the Dashboard
+## 📸 An Overview of the Dashboard
 
-  ![Image Alt](image_url)
+  ![Image Alt](https://github.com/HostileSoldier321/Blinkit-Grocery-Dashboard/blob/79cebb7a92fc0b7bbdf1c2cfbbde1fda3a5ee8da/Blinkit%20Grocery%20Data_page-0001.jpg)
 
 ---
 
